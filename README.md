@@ -21,5 +21,4 @@ Cyber Security Student | Linux | Python | Networking | Ethical Hacking
 - Learn penetration testing and web security
 
 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/
-sudharsan-ar
+- LinkedIn: https://www.linkedin.com/in/sudharsan-ar
