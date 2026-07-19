@@ -1,5 +1,7 @@
 Hi, I'm Sudharsan A 👋
 
+Cyber Security Student | Linux | Python | Networking | Ethical Hacking
+
 ## 🎓 About Me
 - Final-year BE CSE (Cyber Security) Student
 - Passionate about Cyber Security and Ethical Hacking
@@ -16,7 +18,8 @@ Hi, I'm Sudharsan A 👋
 - Build practical cybersecurity skills
 - Create real-world security projects
 - Contribute to open-source projects
-- Become a Cyber Security Engineer
+- Learn penetration testing and web security
 
 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/sudharsan-a-9678842a5?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn: https://www.linkedin.com/in/
+sudharsan-ar
