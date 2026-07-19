@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Sudharsan A 👋
 
-<!--
-**sudharsan-ar/sudharsan-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- Final-year BE CSE (Cyber Security) Student
+- Passionate about Cyber Security and Ethical Hacking
+- Currently learning Linux, Python, Networking, and Web Security
 
-Here are some ideas to get you started:
+🛠️ Skills
+- Java
+- Python (Learning)
+- Linux (Learning)
+- Networking
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Current Goals
+- Build practical cybersecurity skills
+- Create real-world security projects
+- Contribute to open-source projects
+- Become a Cyber Security Engineer
+
+📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/sudharsan-a-9678842a5?utm_source=share_via&utm_content=profile&utm_medium=member_android
